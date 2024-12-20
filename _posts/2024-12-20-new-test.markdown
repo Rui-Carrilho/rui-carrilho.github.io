@@ -1,0 +1,28 @@
+---
+layout: post
+title: "How to make a Github Pages blog"
+date: 2024-12-20
+categories: blog
+---
+
+# Where to start
+
+Go to Github and make a repository.
+
+## Introduction
+
+In this post, we will cover the basics of writing a blog post in markdown.
+
+## Main Content
+
+Here is some example content for the blog post. You can add text, images, links, and more.
+
+### Subheading
+
+You can also add subheadings to organize your content.
+
+## Conclusion
+
+Thank you for reading this test post. Stay tuned for more updates!
+
+```
