@@ -30,7 +30,7 @@ twitter_username: Rui Carrilho
 github_username:  Rui-Carrilho
 
 # Build settings
-theme: minima
+theme: moonwalk
 plugins:
   - jekyll-feed
 
