@@ -12,4 +12,5 @@ This is where I dump what's on my mind. I'm a CS PhD student, working on AI/ML, 
 ## My Projects
 - [My projects](#)
 - [Book reviews](#)
-- [Ramblings](#)
+- [Thoughts](#)
+- [Lists](#)
