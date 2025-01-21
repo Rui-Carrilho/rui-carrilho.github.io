@@ -21,16 +21,16 @@
 title: Let's dive in...
 email: rpcarrilho5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where I dump what's going on in my mind. I'm a CS PhD student, working on AI/ML, specifically Computer Vision. \\
-  I like to do deep diver into things I'm interested about, and then writing down what I learned from them. \\
-  Nice to meet you!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+  What's up? I'm a CS PhD student, working on AI/ML, specifically Computer Vision.
+  I like to do deep dives into things I'm interested about, and then writing down what I learned from them.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rui-carrilho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Rui Carrilho
 github_username:  Rui-Carrilho
 
 # Build settings
-theme: moonwalk
+# RUI - I LIKE hacker > time-machine > midnight > slate > modernist (meh) > tactile
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
