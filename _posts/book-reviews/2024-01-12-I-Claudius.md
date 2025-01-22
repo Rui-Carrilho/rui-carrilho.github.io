@@ -2,7 +2,8 @@
 layout: post
 title:  "Book review - I, Claudius"
 date:   2025-01-12 00:35:32 +0000
-categories: jekyll update
+categories: 
+author: Rui Carrilho
 ---
 
 From Robert Graves, a civilization-hating historian comes the very first book in the genre dubbed "historical fiction" - fiction based upon real events. And let me tell you, despite being the first of its kind, this book is something else, not just as a fictional tale, but as one of the most interesting glimpses into the Roman Empire.
