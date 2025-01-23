@@ -6,7 +6,7 @@ categories:
 author: Rui Carrilho
 ---
 
-So, the story is actually this: 
+So, the story is actually this:        
 
 Humans came to colonize Sainte-Anne, and it's neighbour, Sainte-Croix. In the first story, David and Number Five (whose real name is totally Gene Wolfe) discuss what happened to the abos, the aboriginee people who were on those planets before humanity came. One crackpot theory put forward by Dr Veil, Gene's "aunt" (actually daughter) is that the abos were shapeshifters, who killed the settlers and took their place. While this seems preposterous, it's hinted by the other stories to be exactly the case.
 
