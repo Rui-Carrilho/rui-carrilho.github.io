@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Fifth Head of Cerberus"
-date:   2025-01-22 00:04:21 +0000
-categories: 
+date:   2025-01-23 00:54:21 +0000
+categories: book-reviews
 author: Rui Carrilho
 ---
 
