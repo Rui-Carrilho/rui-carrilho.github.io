@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Fifth Head of Cerberus - the *real* story"
-date:   2025-01-22 00:23:21 +0000
-categories: 
+date:   2025-01-24 00:23:21 +0000
+categories: book-reviews
 author: Rui Carrilho
 ---
 
