@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book review - I, Claudius"
+title:  "I, Claudius"
 date:   2025-01-12 00:35:32 +0000
 categories: book-reviews
 author: Rui Carrilho
