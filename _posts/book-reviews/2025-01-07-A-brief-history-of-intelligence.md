@@ -14,7 +14,7 @@ I will divide this review into five parts corresponding to each of the correspon
 ### Breakthrough #1 - Steering
 I'd say this is the most unexpectedly interesting chapter in the whole book. Bennett introduces the first breakthrough as the ability to steer towards... well, whatever good stuff you're after. He points out a ton of things that are, upon inspection, somewhat obvious, such as the fact that bilaterian organisms (beings with two symmetrical sides, i.e - a left and a right) are basically the epitome of steering, and how steering already presupposes that you can divide the world into "good" (worth steering towards) and "bad" (worth steering away from). 
 
-From here, he deduces many important conclusions - that these very basic starting points are essentially the spawning point of emotion, association, prediction, and the entirety of learning
+From here, he deduces many important conclusions - that these very basic starting points are essentially the spawning point of emotion, association, prediction, and the entirety of learning. 
 
 ### Breakthrough #2 - Reinforcing
 
